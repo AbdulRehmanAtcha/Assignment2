@@ -1,0 +1,45 @@
+.slide1 i{
+    animation: slide1 5s ease-in-out 0s infinite;
+}
+@keyframes slide1 {
+    0%{
+        margin-left: 0%;
+    }
+    100%{
+        margin-left: 100%;
+    }
+}
+.slide2 i{
+    animation: slide2 5s ease-in-out 0s infinite;
+}
+@keyframes slide2 {
+    0%{
+        margin-left: 0%;
+    }
+    100%{
+        margin-left: 90%;
+    }
+}
+.slide3 i{
+    animation: slide3 5s ease-in-out 0s infinite;
+}
+@keyframes slide3 {
+    0%{
+        margin-left: 90%;
+    }
+    100%{
+        margin-left: 0%;
+    }
+}
+.slide4 i{
+    animation: slide4 5s ease-in-out 0s infinite;
+}
+@keyframes slide4 {
+    0%{
+        margin-left: 90%;
+    }
+    100%{
+        margin-left: 0%;
+    }
+}
+
